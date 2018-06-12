@@ -3,6 +3,7 @@
         <wh-header></wh-header>
         <div class="wh_content">
             <wh-left></wh-left>
+            <router-view></router-view>
         </div>
     </div>
     
